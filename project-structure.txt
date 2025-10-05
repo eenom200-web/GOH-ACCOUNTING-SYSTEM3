@@ -1,0 +1,7 @@
+GOH-Accounting-System/
+├── client/           # React frontend (will contain package.json, src/, public/, etc.)
+├── server/           # Node.js/Express backend (will contain package.json, src/, uploads/, etc.)
+├── db/               # Database schema/migration scripts
+├── .env.example      # Environment variables template
+├── .gitignore
+└── README.md
